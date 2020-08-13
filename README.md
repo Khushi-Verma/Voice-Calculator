@@ -1,4 +1,5 @@
 # A Smart Calculator
+## https://khushi-verma.github.io/Voice-Calculator/
 A smart calculator that accepts voice input.
 # Step for speech recognition
 - For recording, use The SpeechRecognition interface of the Web Speech API.
