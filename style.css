@@ -4,7 +4,7 @@ body{
 }
 #container{
 	width: 999px;
-	height: 540px;
+	height: 550px;
 	background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(bgImg.jpg);
 	margin: 20px auto;	
 }
