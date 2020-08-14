@@ -122,11 +122,11 @@ button:nth-child(4){
 }
 button:nth-child(8){
 	font-size: 20px;
-	background-color: #ffa500;
+	background-color: lightsalmon;
 }
 button:nth-child(12){
 	font-size: 20px;
-	background-color: #f08080;
+	background-color: lightpink;
 }
 button:nth-child(16){
 	font-size: 20px;
