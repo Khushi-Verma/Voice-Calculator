@@ -3,7 +3,7 @@ body{
 	background-color: lightskyblue;
 }
 #container{
-	width: 1000px;
+	width: 999px;
 	height: 540px;
 	background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(bgImg.jpg);
 	margin: 20px auto;	
