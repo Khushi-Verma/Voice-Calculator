@@ -71,7 +71,7 @@ body{
 	width: 200px;
 	font-size: 9px;
 	position: absolute;
-	background-color: #dddddd;
+	background-color: lightcoral;
 	color: #636363;
 	padding: 10px;
 	top: 45px;
@@ -118,7 +118,7 @@ body{
 }
 button:nth-child(4){
 	font-size: 20px;
-	background-color: #20b2aa;
+	background-color: lightgreen;
 }
 button:nth-child(8){
 	font-size: 20px;
